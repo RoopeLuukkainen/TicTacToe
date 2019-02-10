@@ -1,4 +1,4 @@
-# TicTacToe Game
+# Forked TicTacToe Game For Software Maintenance course
 
 Create a Tic Tac Toe game. Here are the requirements:
 
